@@ -20,10 +20,6 @@ The datasets include:
    - Explore jobs: count jobs per department.  
    - Combined datasets: employee positions, nationality mismatch, performance correlations, salary by department, experience vs manager score.
 
-3. **Bonus Questions:**  
-   - Analyze hiring campaign effectiveness in USA R&D (Sep 2022–Sep 2023).  
-   - Verify if only experienced (10+ years) managers were hired to R&D in 2023.
-
 ---
 
 ### How to run
